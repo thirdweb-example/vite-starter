@@ -1,4 +1,4 @@
-import { ConnectButton, useActiveAccount } from "thirdweb/react";
+import { ConnectButton } from "thirdweb/react";
 import thirdwebIcon from "./thirdweb.svg";
 
 export function App() {
