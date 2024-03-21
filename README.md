@@ -1,4 +1,4 @@
-# thirdweb unified SDK + Vite starter
+# thirdweb SDK + Vite starter
 
 ## Setup client id
 
@@ -40,7 +40,7 @@ yarn preview
 
 ## Resources
 
-- [thirdweb unified SDK documentation](https://portal.thirdweb.com/typescript/v5)
+- [thirdweb SDK documentation](https://portal.thirdweb.com/typescript/v5)
 - [React components and hooks](https://portal.thirdweb.com/typescript/v5/react)
 - [thirdweb Dashboard](https://thirdweb.com/dashboard)
 

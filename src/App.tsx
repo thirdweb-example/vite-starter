@@ -30,7 +30,7 @@ function Header() {
       />
 
       <h1 className="text-2xl md:text-6xl font-bold tracking-tighter mb-6 text-zinc-100">
-        thirdweb unified SDK
+        thirdweb SDK
         <span className="text-zinc-300 inline-block mx-1"> + </span>
         <span className="inline-block -skew-x-6 text-violet-500"> vite </span>
       </h1>
@@ -50,15 +50,15 @@ function ThirdwebResources() {
   return (
     <div className="grid gap-4 lg:grid-cols-3 justify-center">
       <ArticleCard
-        title="thirdweb unified SDK Docs"
+        title="thirdweb SDK Docs"
         href="https://portal.thirdweb.com/typescript/v5"
-        description="thirdweb TypeScript Unified SDK documentation"
+        description="thirdweb TypeScript SDK documentation"
       />
 
       <ArticleCard
         title="Components and Hooks"
         href="https://portal.thirdweb.com/typescript/v5/react"
-        description="Learn about the thirdweb React components and hooks in thirdweb unified SDK"
+        description="Learn about the thirdweb React components and hooks in thirdweb SDK"
       />
 
       <ArticleCard
