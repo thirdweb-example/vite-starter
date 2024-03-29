@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "^18.2",
     "react-dom": "^18.2",
-    "thirdweb": "beta"
+    "thirdweb": "^5"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
