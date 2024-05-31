@@ -20,25 +20,25 @@ To learn how to create a client ID, refer to the [client documentation](https://
 
 ## Run locally
 
-### Install dependencies
+Install dependencies
 
 ```bash
 yarn
 ```
 
-### Start development server
+Start development server
 
 ```bash
 yarn dev
 ```
 
-### Create a production build
+Create a production build
 
 ```bash
 yarn build
 ```
 
-### Preview the production build
+Preview the production build
 
 ```bash
 yarn preview
