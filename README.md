@@ -10,6 +10,14 @@ Starter template to build onchain applications with [thirdweb](https://thirdweb.
 - thirdweb & vite pre-installed and configured to reduce setup steps
 - ConnectButton to onboard users to your application
 
+## Installation
+
+Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
+
+```bash
+  npx thirdweb create app --vite
+```
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file:
