@@ -1,18 +1,21 @@
-# thirdweb SDK + Vite starter
+# vite-starter
 
-## Setup client id
+Starter template to build onchain applications with [thirdweb](https://thirdweb.com) and [vite](https://vitejs.dev/). 
 
-Before you start, you need to replace the placeholder `clientId` with your client ID to use thirdweb SDK.
+## Features 
 
-Refer to [Creating a client](https://portal.thirdweb.com/typescript/v5/client) guide to see how you can get a client id.
+- thirdweb & vite pre-installed and configured to reduce setup steps
+- ConnectButton to onboard users to your application
 
-Go to `src/client.ts` file and replace the placeholder `clientId` with your client ID.
+## Environment Variables
 
-```ts
-const clientId = "......";
-```
+To run this project, you will need to add the following environment variables to your .env file:
 
-## Usage
+`CLIENT_ID`
+
+To learn how to create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
+
+## Run locally
 
 ### Install dependencies
 
@@ -38,12 +41,12 @@ yarn build
 yarn preview
 ```
 
-## Resources
+## Additional Resources
 
 - [thirdweb SDK documentation](https://portal.thirdweb.com/typescript/v5)
 - [React components and hooks](https://portal.thirdweb.com/typescript/v5/react)
 - [thirdweb Dashboard](https://thirdweb.com/dashboard)
 
-## Join our Discord!
+## Need help?
 
-For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+For help or feedback, please [visit our support site](https://thirdweb.com/support)
